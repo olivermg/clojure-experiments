@@ -1,4 +1,4 @@
-(ns clojure-subtle-quote-and-backtick.core)
+(ns clojure-experiments.quote-backtick)
 
 (in-ns 'user)
 
