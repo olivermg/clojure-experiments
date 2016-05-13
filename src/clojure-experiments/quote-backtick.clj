@@ -4,8 +4,8 @@
 
 ;; Both quote and backtick prevent evaluation of the
 ;; subsequent expression:
-'(1 2 3) ;; => (1 2 3)
 `(1 2 3) ;; => (1 2 3)
+'(1 2 3) ;; => (1 2 3)
 
 
 ;; Backtick allows you to use the tilde character (~)
